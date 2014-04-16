@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/tctony/TCTDEVLIB"
 
-  s.license      = { :type => "MIT", :file => 'LICENCE' }
+  s.license      = { :type => "MIT", :file => 'LICENSE' }
   s.author       = { "Tony Tang" => "tangchang21@gmail.com" }
 
   s.platform     = :ios
